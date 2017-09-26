@@ -1,0 +1,217 @@
+[20-Sep-2017 23:38:25 UTC] PHP Warning:  include(/silverjack/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/silverjack/lab3.php on line 9
+[20-Sep-2017 23:38:25 UTC] PHP Stack trace:
+[20-Sep-2017 23:38:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[20-Sep-2017 23:38:25 UTC] PHP Warning:  include(): Failed opening '/silverjack/functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/silverjack/lab3.php on line 9
+[20-Sep-2017 23:38:25 UTC] PHP Stack trace:
+[20-Sep-2017 23:38:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[20-Sep-2017 23:38:25 UTC] PHP Fatal error:  Call to undefined function generateDeck() in /home/ubuntu/workspace/silverjack/lab3.php on line 17
+[20-Sep-2017 23:38:25 UTC] PHP Stack trace:
+[20-Sep-2017 23:38:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[20-Sep-2017 23:38:27 UTC] PHP Warning:  include(/silverjack/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/silverjack/lab3.php on line 9
+[20-Sep-2017 23:38:27 UTC] PHP Stack trace:
+[20-Sep-2017 23:38:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[20-Sep-2017 23:38:27 UTC] PHP Warning:  include(): Failed opening '/silverjack/functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/silverjack/lab3.php on line 9
+[20-Sep-2017 23:38:27 UTC] PHP Stack trace:
+[20-Sep-2017 23:38:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[20-Sep-2017 23:38:27 UTC] PHP Fatal error:  Call to undefined function generateDeck() in /home/ubuntu/workspace/silverjack/lab3.php on line 17
+[20-Sep-2017 23:38:27 UTC] PHP Stack trace:
+[20-Sep-2017 23:38:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[20-Sep-2017 23:38:27 UTC] PHP Warning:  include(/silverjack/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/silverjack/lab3.php on line 9
+[20-Sep-2017 23:38:27 UTC] PHP Stack trace:
+[20-Sep-2017 23:38:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[20-Sep-2017 23:38:27 UTC] PHP Warning:  include(): Failed opening '/silverjack/functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/silverjack/lab3.php on line 9
+[20-Sep-2017 23:38:27 UTC] PHP Stack trace:
+[20-Sep-2017 23:38:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[20-Sep-2017 23:38:27 UTC] PHP Fatal error:  Call to undefined function generateDeck() in /home/ubuntu/workspace/silverjack/lab3.php on line 17
+[20-Sep-2017 23:38:27 UTC] PHP Stack trace:
+[20-Sep-2017 23:38:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[20-Sep-2017 23:38:28 UTC] PHP Warning:  include(/silverjack/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/silverjack/lab3.php on line 9
+[20-Sep-2017 23:38:28 UTC] PHP Stack trace:
+[20-Sep-2017 23:38:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[20-Sep-2017 23:38:28 UTC] PHP Warning:  include(): Failed opening '/silverjack/functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/silverjack/lab3.php on line 9
+[20-Sep-2017 23:38:28 UTC] PHP Stack trace:
+[20-Sep-2017 23:38:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[20-Sep-2017 23:38:28 UTC] PHP Fatal error:  Call to undefined function generateDeck() in /home/ubuntu/workspace/silverjack/lab3.php on line 17
+[20-Sep-2017 23:38:28 UTC] PHP Stack trace:
+[20-Sep-2017 23:38:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[20-Sep-2017 23:38:36 UTC] PHP Warning:  include(silverjack/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/silverjack/lab3.php on line 9
+[20-Sep-2017 23:38:36 UTC] PHP Stack trace:
+[20-Sep-2017 23:38:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[20-Sep-2017 23:38:36 UTC] PHP Warning:  include(): Failed opening 'silverjack/functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/silverjack/lab3.php on line 9
+[20-Sep-2017 23:38:36 UTC] PHP Stack trace:
+[20-Sep-2017 23:38:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[20-Sep-2017 23:38:36 UTC] PHP Fatal error:  Call to undefined function generateDeck() in /home/ubuntu/workspace/silverjack/lab3.php on line 17
+[20-Sep-2017 23:38:36 UTC] PHP Stack trace:
+[20-Sep-2017 23:38:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[20-Sep-2017 23:38:44 UTC] PHP Fatal error:  Call to undefined function generateDeck() in /home/ubuntu/workspace/silverjack/lab3.php on line 17
+[20-Sep-2017 23:38:44 UTC] PHP Stack trace:
+[20-Sep-2017 23:38:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[20-Sep-2017 23:38:45 UTC] PHP Fatal error:  Call to undefined function generateDeck() in /home/ubuntu/workspace/silverjack/lab3.php on line 17
+[20-Sep-2017 23:38:45 UTC] PHP Stack trace:
+[20-Sep-2017 23:38:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[20-Sep-2017 23:38:46 UTC] PHP Fatal error:  Call to undefined function generateDeck() in /home/ubuntu/workspace/silverjack/lab3.php on line 17
+[20-Sep-2017 23:38:46 UTC] PHP Stack trace:
+[20-Sep-2017 23:38:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[20-Sep-2017 23:38:46 UTC] PHP Fatal error:  Call to undefined function generateDeck() in /home/ubuntu/workspace/silverjack/lab3.php on line 17
+[20-Sep-2017 23:38:46 UTC] PHP Stack trace:
+[20-Sep-2017 23:38:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[20-Sep-2017 23:38:47 UTC] PHP Fatal error:  Call to undefined function generateDeck() in /home/ubuntu/workspace/silverjack/lab3.php on line 17
+[20-Sep-2017 23:38:47 UTC] PHP Stack trace:
+[20-Sep-2017 23:38:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[20-Sep-2017 23:43:08 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL), expecting ')' in /home/ubuntu/workspace/silverjack/lab3.php on line 96
+[21-Sep-2017 00:08:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/silverjack/lab3.php on line 214
+[21-Sep-2017 00:08:02 UTC] PHP Stack trace:
+[21-Sep-2017 00:08:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:08:02 UTC] PHP   2. displayPerson1() /home/ubuntu/workspace/silverjack/lab3.php:223
+[21-Sep-2017 00:08:02 UTC] PHP   3. calculateHandValue() /home/ubuntu/workspace/silverjack/lab3.php:169
+[21-Sep-2017 00:08:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/silverjack/lab3.php on line 214
+[21-Sep-2017 00:08:02 UTC] PHP Stack trace:
+[21-Sep-2017 00:08:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:08:02 UTC] PHP   2. calculateHandValue() /home/ubuntu/workspace/silverjack/lab3.php:235
+[21-Sep-2017 00:08:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/silverjack/lab3.php on line 214
+[21-Sep-2017 00:08:04 UTC] PHP Stack trace:
+[21-Sep-2017 00:08:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:08:04 UTC] PHP   2. displayPerson1() /home/ubuntu/workspace/silverjack/lab3.php:223
+[21-Sep-2017 00:08:04 UTC] PHP   3. calculateHandValue() /home/ubuntu/workspace/silverjack/lab3.php:169
+[21-Sep-2017 00:08:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/silverjack/lab3.php on line 214
+[21-Sep-2017 00:08:04 UTC] PHP Stack trace:
+[21-Sep-2017 00:08:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:08:04 UTC] PHP   2. calculateHandValue() /home/ubuntu/workspace/silverjack/lab3.php:235
+[21-Sep-2017 00:08:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/silverjack/lab3.php on line 214
+[21-Sep-2017 00:08:05 UTC] PHP Stack trace:
+[21-Sep-2017 00:08:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:08:05 UTC] PHP   2. displayPerson1() /home/ubuntu/workspace/silverjack/lab3.php:223
+[21-Sep-2017 00:08:05 UTC] PHP   3. calculateHandValue() /home/ubuntu/workspace/silverjack/lab3.php:169
+[21-Sep-2017 00:08:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/silverjack/lab3.php on line 214
+[21-Sep-2017 00:08:05 UTC] PHP Stack trace:
+[21-Sep-2017 00:08:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:08:05 UTC] PHP   2. calculateHandValue() /home/ubuntu/workspace/silverjack/lab3.php:235
+[21-Sep-2017 00:09:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/silverjack/lab3.php on line 213
+[21-Sep-2017 00:09:01 UTC] PHP Stack trace:
+[21-Sep-2017 00:09:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:09:01 UTC] PHP   2. displayPerson1() /home/ubuntu/workspace/silverjack/lab3.php:222
+[21-Sep-2017 00:09:01 UTC] PHP   3. calculateHandValue() /home/ubuntu/workspace/silverjack/lab3.php:168
+[21-Sep-2017 00:09:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/silverjack/lab3.php on line 213
+[21-Sep-2017 00:09:01 UTC] PHP Stack trace:
+[21-Sep-2017 00:09:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:09:01 UTC] PHP   2. calculateHandValue() /home/ubuntu/workspace/silverjack/lab3.php:234
+[21-Sep-2017 00:09:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/silverjack/lab3.php on line 213
+[21-Sep-2017 00:09:02 UTC] PHP Stack trace:
+[21-Sep-2017 00:09:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:09:02 UTC] PHP   2. displayPerson1() /home/ubuntu/workspace/silverjack/lab3.php:222
+[21-Sep-2017 00:09:02 UTC] PHP   3. calculateHandValue() /home/ubuntu/workspace/silverjack/lab3.php:168
+[21-Sep-2017 00:09:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/silverjack/lab3.php on line 213
+[21-Sep-2017 00:09:02 UTC] PHP Stack trace:
+[21-Sep-2017 00:09:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:09:02 UTC] PHP   2. calculateHandValue() /home/ubuntu/workspace/silverjack/lab3.php:234
+[21-Sep-2017 00:09:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/silverjack/lab3.php on line 213
+[21-Sep-2017 00:09:10 UTC] PHP Stack trace:
+[21-Sep-2017 00:09:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:09:10 UTC] PHP   2. displayPerson1() /home/ubuntu/workspace/silverjack/lab3.php:222
+[21-Sep-2017 00:09:10 UTC] PHP   3. calculateHandValue() /home/ubuntu/workspace/silverjack/lab3.php:168
+[21-Sep-2017 00:09:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/silverjack/lab3.php on line 213
+[21-Sep-2017 00:09:10 UTC] PHP Stack trace:
+[21-Sep-2017 00:09:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:09:10 UTC] PHP   2. calculateHandValue() /home/ubuntu/workspace/silverjack/lab3.php:234
+[21-Sep-2017 00:09:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/silverjack/lab3.php on line 213
+[21-Sep-2017 00:09:12 UTC] PHP Stack trace:
+[21-Sep-2017 00:09:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:09:12 UTC] PHP   2. displayPerson1() /home/ubuntu/workspace/silverjack/lab3.php:222
+[21-Sep-2017 00:09:12 UTC] PHP   3. calculateHandValue() /home/ubuntu/workspace/silverjack/lab3.php:168
+[21-Sep-2017 00:09:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/silverjack/lab3.php on line 213
+[21-Sep-2017 00:09:12 UTC] PHP Stack trace:
+[21-Sep-2017 00:09:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:09:12 UTC] PHP   2. calculateHandValue() /home/ubuntu/workspace/silverjack/lab3.php:234
+[21-Sep-2017 00:10:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/silverjack/lab3.php on line 213
+[21-Sep-2017 00:10:20 UTC] PHP Stack trace:
+[21-Sep-2017 00:10:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:10:20 UTC] PHP   2. displayPerson1() /home/ubuntu/workspace/silverjack/lab3.php:222
+[21-Sep-2017 00:10:20 UTC] PHP   3. calculateHandValue() /home/ubuntu/workspace/silverjack/lab3.php:168
+[21-Sep-2017 00:10:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/silverjack/lab3.php on line 213
+[21-Sep-2017 00:10:20 UTC] PHP Stack trace:
+[21-Sep-2017 00:10:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:10:20 UTC] PHP   2. calculateHandValue() /home/ubuntu/workspace/silverjack/lab3.php:234
+[21-Sep-2017 00:10:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/silverjack/lab3.php on line 213
+[21-Sep-2017 00:10:25 UTC] PHP Stack trace:
+[21-Sep-2017 00:10:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:10:25 UTC] PHP   2. displayPerson1() /home/ubuntu/workspace/silverjack/lab3.php:222
+[21-Sep-2017 00:10:25 UTC] PHP   3. calculateHandValue() /home/ubuntu/workspace/silverjack/lab3.php:168
+[21-Sep-2017 00:10:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/silverjack/lab3.php on line 213
+[21-Sep-2017 00:10:25 UTC] PHP Stack trace:
+[21-Sep-2017 00:10:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:10:25 UTC] PHP   2. calculateHandValue() /home/ubuntu/workspace/silverjack/lab3.php:234
+[21-Sep-2017 00:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/silverjack/lab3.php on line 213
+[21-Sep-2017 00:10:26 UTC] PHP Stack trace:
+[21-Sep-2017 00:10:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:10:26 UTC] PHP   2. displayPerson1() /home/ubuntu/workspace/silverjack/lab3.php:222
+[21-Sep-2017 00:10:26 UTC] PHP   3. calculateHandValue() /home/ubuntu/workspace/silverjack/lab3.php:168
+[21-Sep-2017 00:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/silverjack/lab3.php on line 213
+[21-Sep-2017 00:10:26 UTC] PHP Stack trace:
+[21-Sep-2017 00:10:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:10:26 UTC] PHP   2. calculateHandValue() /home/ubuntu/workspace/silverjack/lab3.php:234
+[21-Sep-2017 00:16:30 UTC] PHP Fatal error:  Unsupported operand types in /home/ubuntu/workspace/silverjack/lab3.php on line 18
+[21-Sep-2017 00:16:30 UTC] PHP Stack trace:
+[21-Sep-2017 00:16:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:16:30 UTC] PHP   2. generateHand() /home/ubuntu/workspace/silverjack/lab3.php:94
+[21-Sep-2017 00:16:30 UTC] PHP   3. mapNumberToCard() /home/ubuntu/workspace/silverjack/lab3.php:74
+[21-Sep-2017 00:16:31 UTC] PHP Fatal error:  Unsupported operand types in /home/ubuntu/workspace/silverjack/lab3.php on line 18
+[21-Sep-2017 00:16:31 UTC] PHP Stack trace:
+[21-Sep-2017 00:16:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:16:31 UTC] PHP   2. generateHand() /home/ubuntu/workspace/silverjack/lab3.php:94
+[21-Sep-2017 00:16:31 UTC] PHP   3. mapNumberToCard() /home/ubuntu/workspace/silverjack/lab3.php:74
+[21-Sep-2017 00:16:42 UTC] PHP Warning:  Missing argument 1 for generateHand(), called in /home/ubuntu/workspace/silverjack/lab3.php on line 82 and defined in /home/ubuntu/workspace/silverjack/lab3.php on line 69
+[21-Sep-2017 00:16:42 UTC] PHP Stack trace:
+[21-Sep-2017 00:16:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:16:42 UTC] PHP   2. generateHand() /home/ubuntu/workspace/silverjack/lab3.php:82
+[21-Sep-2017 00:16:42 UTC] PHP Warning:  array_pop() expects parameter 1 to be array, null given in /home/ubuntu/workspace/silverjack/lab3.php on line 73
+[21-Sep-2017 00:16:42 UTC] PHP Stack trace:
+[21-Sep-2017 00:16:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:16:42 UTC] PHP   2. generateHand() /home/ubuntu/workspace/silverjack/lab3.php:82
+[21-Sep-2017 00:16:42 UTC] PHP   3. array_pop() /home/ubuntu/workspace/silverjack/lab3.php:73
+[21-Sep-2017 00:16:42 UTC] PHP Warning:  array_pop() expects parameter 1 to be array, null given in /home/ubuntu/workspace/silverjack/lab3.php on line 73
+[21-Sep-2017 00:16:42 UTC] PHP Stack trace:
+[21-Sep-2017 00:16:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:16:42 UTC] PHP   2. generateHand() /home/ubuntu/workspace/silverjack/lab3.php:82
+[21-Sep-2017 00:16:42 UTC] PHP   3. array_pop() /home/ubuntu/workspace/silverjack/lab3.php:73
+[21-Sep-2017 00:16:42 UTC] PHP Warning:  array_pop() expects parameter 1 to be array, null given in /home/ubuntu/workspace/silverjack/lab3.php on line 73
+[21-Sep-2017 00:16:42 UTC] PHP Stack trace:
+[21-Sep-2017 00:16:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:16:42 UTC] PHP   2. generateHand() /home/ubuntu/workspace/silverjack/lab3.php:82
+[21-Sep-2017 00:16:42 UTC] PHP   3. array_pop() /home/ubuntu/workspace/silverjack/lab3.php:73
+[21-Sep-2017 00:16:42 UTC] PHP Warning:  array_pop() expects parameter 1 to be array, null given in /home/ubuntu/workspace/silverjack/lab3.php on line 73
+[21-Sep-2017 00:16:42 UTC] PHP Stack trace:
+[21-Sep-2017 00:16:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:16:42 UTC] PHP   2. generateHand() /home/ubuntu/workspace/silverjack/lab3.php:82
+[21-Sep-2017 00:16:42 UTC] PHP   3. array_pop() /home/ubuntu/workspace/silverjack/lab3.php:73
+[21-Sep-2017 00:16:42 UTC] PHP Fatal error:  Unsupported operand types in /home/ubuntu/workspace/silverjack/lab3.php on line 18
+[21-Sep-2017 00:16:42 UTC] PHP Stack trace:
+[21-Sep-2017 00:16:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/lab3.php:0
+[21-Sep-2017 00:16:42 UTC] PHP   2. generateHand() /home/ubuntu/workspace/silverjack/lab3.php:94
+[21-Sep-2017 00:16:42 UTC] PHP   3. mapNumberToCard() /home/ubuntu/workspace/silverjack/lab3.php:74
+[21-Sep-2017 20:55:41 UTC] PHP Warning:  Missing argument 1 for displayPerson(), called in /home/ubuntu/workspace/silverjack/index.php on line 165 and defined in /home/ubuntu/workspace/silverjack/index.php on line 77
+[21-Sep-2017 20:55:41 UTC] PHP Stack trace:
+[21-Sep-2017 20:55:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/index.php:0
+[21-Sep-2017 20:55:41 UTC] PHP   2. displayPerson() /home/ubuntu/workspace/silverjack/index.php:165
+[21-Sep-2017 20:55:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/silverjack/index.php on line 93
+[21-Sep-2017 20:55:41 UTC] PHP Stack trace:
+[21-Sep-2017 20:55:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/index.php:0
+[21-Sep-2017 20:55:41 UTC] PHP   2. displayPerson() /home/ubuntu/workspace/silverjack/index.php:165
+[21-Sep-2017 20:55:41 UTC] PHP   3. calculateHandValue() /home/ubuntu/workspace/silverjack/index.php:87
+[21-Sep-2017 21:03:19 UTC] PHP Warning:  Missing argument 1 for displayPerson(), called in /home/ubuntu/workspace/silverjack/index.php on line 165 and defined in /home/ubuntu/workspace/silverjack/index.php on line 77
+[21-Sep-2017 21:03:19 UTC] PHP Stack trace:
+[21-Sep-2017 21:03:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/index.php:0
+[21-Sep-2017 21:03:19 UTC] PHP   2. displayPerson() /home/ubuntu/workspace/silverjack/index.php:165
+[21-Sep-2017 21:03:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/silverjack/index.php on line 93
+[21-Sep-2017 21:03:19 UTC] PHP Stack trace:
+[21-Sep-2017 21:03:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/index.php:0
+[21-Sep-2017 21:03:19 UTC] PHP   2. displayPerson() /home/ubuntu/workspace/silverjack/index.php:165
+[21-Sep-2017 21:03:19 UTC] PHP   3. calculateHandValue() /home/ubuntu/workspace/silverjack/index.php:87
+[26-Sep-2017 21:38:15 UTC] PHP Warning:  Missing argument 1 for displayPerson(), called in /home/ubuntu/workspace/silverjack/index.php on line 165 and defined in /home/ubuntu/workspace/silverjack/index.php on line 77
+[26-Sep-2017 21:38:15 UTC] PHP Stack trace:
+[26-Sep-2017 21:38:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/index.php:0
+[26-Sep-2017 21:38:15 UTC] PHP   2. displayPerson() /home/ubuntu/workspace/silverjack/index.php:165
+[26-Sep-2017 21:38:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/silverjack/index.php on line 93
+[26-Sep-2017 21:38:15 UTC] PHP Stack trace:
+[26-Sep-2017 21:38:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/index.php:0
+[26-Sep-2017 21:38:15 UTC] PHP   2. displayPerson() /home/ubuntu/workspace/silverjack/index.php:165
+[26-Sep-2017 21:38:15 UTC] PHP   3. calculateHandValue() /home/ubuntu/workspace/silverjack/index.php:87
